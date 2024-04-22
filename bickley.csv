@@ -1,9 +1,4 @@
-"Daily Weather Observations for Bickley, Western Australia for January 2024"
-"Prepared at 13:02 UTC on Wednesday 17 April 2024   IDCJDW6011.202401"
-"Copyright 2003 Commonwealth Bureau of Meteorology"
-"Observations were drawn from Bickley {station 009240}"
-
-,"Date","Minimum temperature (캜)","Maximum temperature (캜)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (캜)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (캜)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,"Date","Minimum temperature (째C)","Maximum temperature (째C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (째C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (째C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
 ,2024-01-1,13.9,29.5,0,,,ESE,44,22:53,20.4,57,,SE,7,,28.1,38,,WSW,19,
 ,2024-01-2,14.4,26.0,0,,,ENE,69,22:19,19.3,71,,ENE,24,,24.5,49,,ENE,20,
 ,2024-01-3,15.9,29.2,0,,,ENE,76,07:14,19.5,58,,E,28,,28.0,31,,ENE,28,
