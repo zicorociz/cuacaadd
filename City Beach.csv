@@ -1,11 +1,4 @@
-"Daily Weather Observations for Swanbourne, Western Australia for January 2024"
-"Prepared at 13:03 UTC on Wednesday 17 April 2024   IDCJDW6121.202401"
-"Copyright 2003 Commonwealth Bureau of Meteorology"
-"Most observations from a site just under 1 km from the coast, combined with some from Mount Lawley."
-"Temperature, humidity, wind and rainfall observations are from Swanbourne {station 009215}"
-"Pressure observations are from Perth Metro {station 009225}"
-
-,"Date","Minimum temperature (캜)","Maximum temperature (캜)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (캜)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (캜)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,"Date","Minimum temperature (째C)","Maximum temperature (째C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (째C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (째C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
 ,2024-01-1,17.4,25.7,0,,,SSW,48,19:25,22.9,54,,SSE,11,1017.0,23.9,60,,SW,30,1015.0
 ,2024-01-2,17.2,29.8,0,,,ESE,56,23:30,22.9,58,,SE,17,1016.4,28.3,40,,SE,24,1014.4
 ,2024-01-3,18.9,32.3,0,,,ESE,48,07:48,23.3,50,,E,26,1020.0,31.9,25,,SE,20,1016.1
