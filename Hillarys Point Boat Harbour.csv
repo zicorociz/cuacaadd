@@ -1,9 +1,4 @@
-"Daily Weather Observations for Inverell, New South Wales for January 2024"
-"Prepared at 13:00 UTC on Wednesday 17 April 2024   IDCJDW2064.202401"
-"Copyright 2003 Commonwealth Bureau of Meteorology"
-"Observations were drawn from Inverell Research Centre {station 056018}"
-
-,"Date","Minimum temperature (캜)","Maximum temperature (캜)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (캜)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (캜)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,"Date","Minimum temperature (째C)","Maximum temperature (째C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (째C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (째C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
 ,2024-01-1,17.7,28.2,5.4,,,E,39,11:54,23.4,68,,E,26,1019.4,26.0,56,,NE,15,1015.9
 ,2024-01-2,16.3,29.2,0.2,,,ENE,37,15:27,22.4,58,,ENE,20,1016.5,28.2,43,,NE,19,1014.0
 ,2024-01-3,15.1,31.5,0.2,,,SSE,24,17:31,23.0,50,,E,9,1015.1,30.3,38,,NW,9,1012.2
