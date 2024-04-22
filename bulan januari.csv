@@ -1,12 +1,4 @@
-"Daily Weather Observations for Jandakot, Western Australia for January 2024"
-"Prepared at 13:03 UTC on Wednesday 17 April 2024   IDCJDW6056.202401"
-"Copyright 2003 Commonwealth Bureau of Meteorology"
-"Most observations from Jandakot Airport."
-"On most days Jandakot experiences very similar sunshine readings to those recorded at Perth Airport but the distance apart is such that there will be occasional exceptions. Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
-"Temperature, humidity, wind, pressure, cloud and rainfall observations are from Jandakot Aero {station 009172}"
-"Sunshine observations are from Perth Airport {station 009021}"
-
-,"Date","Minimum temperature (캜)","Maximum temperature (캜)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (캜)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (캜)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,"Date","Minimum temperature (째C)","Maximum temperature (째C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (째C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (째C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
 ,2024-01-1,16.0,27.8,0,,11.8,SW,48,14:15,22.9,51,,S,11,1017.0,26.1,50,,SW,30,1014.8
 ,2024-01-2,17.0,29.2,0,,4.1,ESE,67,23:15,24.2,52,8,SE,30,1016.5,28.3,39,8,SE,31,1014.6
 ,2024-01-3,18.9,32.0,0,,11.3,E,59,21:48,21.9,53,4,ESE,31,1020.2,30.3,26,,ESE,35,1016.5
