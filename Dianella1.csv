@@ -1,12 +1,4 @@
-"Daily Weather Observations for Perth, Western Australia for January 2024"
-"Prepared at 13:03 UTC on Wednesday 17 April 2024   IDCJDW6111.202401"
-"Copyright 2003 Commonwealth Bureau of Meteorology"
-"A combination of observations from Mount Lawley and Perth Airport."
-"Significant variations can be experienced across the Perth metropolitan area on individual days. On average the inner city area is warmer overnight than the current observation sites. The current official Perth observation site is Perth Metro, however in the past Perth Regional Office and Perth Gardens have been official Perth observation sites.Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
-"Temperature, humidity, wind, pressure and rainfall observations are from Perth Metro {station 009225}"
-"Cloud, evaporation and sunshine observations are from Perth Airport {station 009021}"
-
-,"Date","Minimum temperature (캜)","Maximum temperature (캜)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (캜)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (캜)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,"Date","Minimum temperature (째C)","Maximum temperature (째C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (째C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (째C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
 ,2024-01-1,17.3,27.9,0,9.0,11.8,SW,35,16:51,22.6,52,1,S,11,1017.0,26.6,46,5,SW,19,1015.0
 ,2024-01-2,17.9,28.4,0,10.0,4.1,ESE,43,22:32,22.3,60,7,SE,11,1016.4,27.8,42,7,SE,13,1014.4
 ,2024-01-3,19.1,31.6,0,5.6,11.3,SE,41,15:14,22.6,49,3,E,17,1020.0,30.8,27,1,E,19,1016.1
